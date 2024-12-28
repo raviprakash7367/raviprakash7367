@@ -11,7 +11,7 @@ I'm a passionate software developer with a keen interest in open-source contribu
 - 👯 I’m looking to collaborate on integrating AI in Java projects
 - 💬 Ask me about Java, API building
 - 📫 How to reach me: prakashravi7367@gmail.com
-- 😄 Pronouns: They/Them
+
 
 
 ## Skills and Experience
